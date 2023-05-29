@@ -1,6 +1,3 @@
-![](https://pbs.twimg.com/profile_banners/1464388212772970503/1641565489/600x200)
-
-<div align="center">
 <img src="https://media.giphy.com/media/gTid8iSwgRx6PlgbEx/giphy.gif" align="center" style="width: 100%" />
 </div>  
   
